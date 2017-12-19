@@ -1,0 +1,76 @@
+8
+
+dir
+41
+https://desktop-su305is/svn/myRepository/SMBMS
+https://desktop-su305is/svn/myRepository
+
+
+
+2017-12-11T02:28:07.802528Z
+41
+scott
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e29159e6-5055-9546-9012-617bc9c67015
+
+.classpath
+file
+42
+
+
+
+2017-12-02T11:15:08.475000Z
+7396a787934a7b4dff50a9ec663e1c5d
+2017-12-11T02:28:26.884073Z
+42
+scott
+
+.mymetadata
+file
+42
+
+
+
+2017-12-02T10:59:18.612000Z
+21d4ad5d8e4893f50ae6c23603750e98
+2017-12-11T02:28:26.884073Z
+42
+scott
+
+.project
+file
+42
+
+
+
+2017-12-02T12:20:02.942000Z
+2ab4611e78279830d49b42c583df118c
+2017-12-11T02:28:26.884073Z
+42
+scott
+
+.settings
+dir
+
+WebRoot
+dir
+
+resources
+dir
+
+src
+dir
+

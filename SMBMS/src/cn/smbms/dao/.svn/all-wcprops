@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/myRepository/!svn/ver/42/SMBMS/src/cn/smbms/dao
+END
+UserMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/myRepository/!svn/ver/42/SMBMS/src/cn/smbms/dao/UserMapper.java
+END
+UserMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/myRepository/!svn/ver/42/SMBMS/src/cn/smbms/dao/UserMapper.xml
+END
+RoleMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/myRepository/!svn/ver/42/SMBMS/src/cn/smbms/dao/RoleMapper.java
+END
+RoleMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/myRepository/!svn/ver/42/SMBMS/src/cn/smbms/dao/RoleMapper.xml
+END

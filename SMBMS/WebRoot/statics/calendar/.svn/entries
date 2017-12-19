@@ -1,0 +1,82 @@
+8
+
+dir
+42
+https://desktop-su305is/svn/myRepository/SMBMS/WebRoot/statics/calendar
+https://desktop-su305is/svn/myRepository
+
+
+
+2017-12-11T02:28:26.884073Z
+42
+scott
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e29159e6-5055-9546-9012-617bc9c67015
+
+My97DatePicker.htm
+file
+
+
+
+
+2017-12-02T11:00:01.819000Z
+3bce509a396fe0b2ff0c8d10c6995546
+2017-12-11T02:28:26.884073Z
+42
+scott
+
+WdatePicker.js
+file
+
+
+
+
+2017-12-02T11:00:01.897000Z
+3de33bdc20050fd2257912ab48172858
+2017-12-11T02:28:26.884073Z
+42
+scott
+
+calendar.js
+file
+
+
+
+
+2017-12-02T11:00:01.772000Z
+d150d68e6f4210a03af718c26c4211bb
+2017-12-11T02:28:26.884073Z
+42
+scott
+
+config.js
+file
+
+
+
+
+2017-12-02T11:00:01.787000Z
+7a59ab6855c6587eb1b95616de929f74
+2017-12-11T02:28:26.884073Z
+42
+scott
+
+lang
+dir
+
+skin
+dir
+

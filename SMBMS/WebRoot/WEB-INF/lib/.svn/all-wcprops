@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/lib
+END
+spring-web-3.2.13.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/lib/spring-web-3.2.13.RELEASE.jar
+END
+validation-api-1.0.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/lib/validation-api-1.0.0.GA.jar
+END
+aopalliance-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/lib/aopalliance-1.0.jar
+END
+spring-jdbc-3.2.13.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/lib/spring-jdbc-3.2.13.RELEASE.jar
+END
+hibernate-validator-4.3.2.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/lib/hibernate-validator-4.3.2.Final.jar
+END
+mybatis-3.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/lib/mybatis-3.2.2.jar
+END
+fastjson-1.2.13.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/lib/fastjson-1.2.13.jar
+END
+spring-webmvc-3.2.13.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/lib/spring-webmvc-3.2.13.RELEASE.jar
+END
+commons-fileupload-1.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/lib/commons-fileupload-1.2.2.jar
+END
+log4j-1.2.17.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/lib/log4j-1.2.17.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/lib/commons-logging-1.1.1.jar
+END
+jstl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/lib/jstl.jar
+END
+spring-context-3.2.13.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/lib/spring-context-3.2.13.RELEASE.jar
+END
+spring-expression-3.2.13.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/lib/spring-expression-3.2.13.RELEASE.jar
+END
+mybatis-spring-1.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/lib/mybatis-spring-1.2.2.jar
+END
+commons-lang-2.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/lib/commons-lang-2.6.jar
+END
+jboss-logging-3.1.0.CR2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/lib/jboss-logging-3.1.0.CR2.jar
+END
+commons-dbcp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/lib/commons-dbcp.jar
+END
+aspectjweaver-1.6.9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/lib/aspectjweaver-1.6.9.jar
+END
+org.springframework.transaction-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/lib/org.springframework.transaction-3.1.1.RELEASE.jar
+END
+commons-io-2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/lib/commons-io-2.4.jar
+END
+spring-aop-3.2.13.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/lib/spring-aop-3.2.13.RELEASE.jar
+END
+commons-dbcp-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/lib/commons-dbcp-1.4.jar
+END
+spring-beans-3.2.13.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/lib/spring-beans-3.2.13.RELEASE.jar
+END
+mybatis-spring-1.2.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/lib/mybatis-spring-1.2.0.jar
+END
+spring-core-3.2.13.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/lib/spring-core-3.2.13.RELEASE.jar
+END
+commons-pool.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/lib/commons-pool.jar
+END
+standard.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/lib/standard.jar
+END
+mysql-connector-java-5.1.25-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/lib/mysql-connector-java-5.1.25-bin.jar
+END
+spring-tx-3.2.13.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/lib/spring-tx-3.2.13.RELEASE.jar
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/jsp
+END
+modifyPwd.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/jsp/modifyPwd.jsp
+END
+rollpage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/jsp/rollpage.jsp
+END
+syserror.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/jsp/syserror.jsp
+END
+modify.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/jsp/modify.jsp
+END
+useradd.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/jsp/useradd.jsp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/jsp/login.jsp
+END
+error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/jsp/error.jsp
+END
+frame.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/jsp/frame.jsp
+END
+userlist.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/myRepository/!svn/ver/42/SMBMS/WebRoot/WEB-INF/jsp/userlist.jsp
+END

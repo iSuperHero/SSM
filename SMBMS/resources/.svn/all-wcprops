@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/myRepository/!svn/ver/42/SMBMS/resources
+END
+mybatis-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/myRepository/!svn/ver/42/SMBMS/resources/mybatis-config.xml
+END
+springmvc-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/myRepository/!svn/ver/42/SMBMS/resources/springmvc-servlet.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/myRepository/!svn/ver/42/SMBMS/resources/log4j.properties
+END
+applicationContext-mybatis.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/myRepository/!svn/ver/42/SMBMS/resources/applicationContext-mybatis.xml
+END
+database.properties
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/myRepository/!svn/ver/42/SMBMS/resources/database.properties
+END
