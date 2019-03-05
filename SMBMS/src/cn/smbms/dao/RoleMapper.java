@@ -6,5 +6,6 @@ import cn.smbms.pojo.Role;
 
 public interface RoleMapper {
 
+    //注释
 	public  List<Role> getRoleList();
 }
